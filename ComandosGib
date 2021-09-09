@@ -1,0 +1,10 @@
+git init// Crear Directorio de Trabajo
+git clone // Clonar repositorio
+ls// Ver contenido de directorio 
+cd://Nuevo Directorio
+pwd// En que directorio estoy
+git status// Revisar que se modifico
+git checkout –b // Crear rama de trabajo
+git add//Adiccionar cambios
+ push//Publicar local al servidor
+ 
